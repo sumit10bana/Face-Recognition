@@ -1,0 +1,76 @@
+﻿Build started 27-11-2013 10:25:40.
+     1>Project "C:\Users\Sumit\Documents\Visual Studio 2010\MySIFT\MySIFT.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MySIFT.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\opencv\build\include\opencv /IC:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MySIFT.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SIFT.cpp
+         SIFT.cpp
+     1>c:\users\sumit\documents\visual studio 2010\mysift\descriptor.h(38): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\descriptor.h(63): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\descriptor.h(96): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\descriptor.h(118): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(69): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(104): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(131): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(344): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(346): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(511): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(513): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(595): warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(721): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(721): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(800): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(800): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(800): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(800): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(800): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(800): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(800): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(800): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(801): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(801): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(801): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(801): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(801): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(801): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(801): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(801): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(803): warning C4244: 'initializing' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(804): warning C4244: 'initializing' : conversion from 'float' to 'unsigned int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(922): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(922): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(940): warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1072): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1076): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1076): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1076): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1076): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1077): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1077): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1077): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1077): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1088): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sumit\documents\visual studio 2010\mysift\sift.cpp(1090): warning C4018: '<' : signed/unsigned mismatch
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sumit\Documents\Visual Studio 2010\MySIFT\Debug\MySIFT.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc10\lib /LIBPATH:C:\opencv\build\x64\vc10\lib opencv_calib3d242d.lib opencv_contrib242d.lib opencv_core242d.lib opencv_features2d242d.lib opencv_flann242d.lib opencv_gpu242d.lib opencv_haartraining_engined.lib opencv_highgui242d.lib opencv_imgproc242d.lib opencv_legacy242d.lib opencv_ml242d.lib opencv_nonfree242d.lib opencv_objdetect242d.lib opencv_photo242d.lib opencv_stitching242d.lib opencv_ts242d.lib opencv_video242d.lib opencv_videostab242d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MySIFT.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Sumit\Documents\Visual Studio 2010\MySIFT\Debug\MySIFT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sumit\Documents\Visual Studio 2010\MySIFT\Debug\MySIFT.lib" /MACHINE:X86 Debug\MySIFT.exe.embed.manifest.res
+         Debug\MySIFT.obj
+         Debug\SIFT.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MySIFT.exe.embed.manifest" /manifest Debug\MySIFT.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         MySIFT.vcxproj -> C:\Users\Sumit\Documents\Visual Studio 2010\MySIFT\Debug\MySIFT.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\MySIFT.unsuccessfulbuild".
+         Touching "Debug\MySIFT.lastbuildstate".
+     1>Done Building Project "C:\Users\Sumit\Documents\Visual Studio 2010\MySIFT\MySIFT.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.46
